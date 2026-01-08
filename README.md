@@ -1,4 +1,4 @@
-# 85
+# TestProject
 
 Mockup React généré par Spark.
 
@@ -11,8 +11,8 @@ Mockup React généré par Spark.
 ### Avec Docker
 
 ```bash
-docker build -t 85 .
-docker run -p 3000:3000 85
+docker build -t testproject .
+docker run -p 3000:3000 testproject
 ```
 
 L'application sera disponible sur http://localhost:3000

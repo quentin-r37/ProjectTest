@@ -13,7 +13,7 @@ En te basant sur le product vision board suivant, la maquette applicative (dans 
 
 ```json
 {
-  "projectName": "85",
+  "projectName": "TestProject",
   "vision": [
     "Être la plateforme bancaire mobile la plus simple et intuitive pour la gestion financière quotidienne",
     "Rendre l'accès aux services bancaires accessible et agréable pour tous",
